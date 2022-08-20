@@ -1,0 +1,8 @@
+D:\lesson homework\training 4\training 4\bin\Debug\training 4.exe.config
+D:\lesson homework\training 4\training 4\bin\Debug\training 4.exe
+D:\lesson homework\training 4\training 4\bin\Debug\training 4.pdb
+D:\lesson homework\training 4\training 4\obj\Debug\training 4.csproj.AssemblyReference.cache
+D:\lesson homework\training 4\training 4\obj\Debug\training 4.csproj.SuggestedBindingRedirects.cache
+D:\lesson homework\training 4\training 4\obj\Debug\training 4.csproj.CoreCompileInputs.cache
+D:\lesson homework\training 4\training 4\obj\Debug\training 4.exe
+D:\lesson homework\training 4\training 4\obj\Debug\training 4.pdb

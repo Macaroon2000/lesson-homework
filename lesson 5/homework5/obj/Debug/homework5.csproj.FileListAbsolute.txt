@@ -1,0 +1,16 @@
+D:\lesson homework\homework5\homework5\obj\Debug\homework5.csproj.AssemblyReference.cache
+D:\lesson homework\homework5\homework5\obj\Debug\homework5.csproj.SuggestedBindingRedirects.cache
+D:\lesson homework\homework5\homework5\obj\Debug\homework5.csproj.CoreCompileInputs.cache
+D:\lesson homework\homework5\homework5\bin\Debug\homework5.exe.config
+D:\lesson homework\homework5\homework5\bin\Debug\homework5.exe
+D:\lesson homework\homework5\homework5\bin\Debug\homework5.pdb
+D:\lesson homework\homework5\homework5\obj\Debug\homework5.exe
+D:\lesson homework\homework5\homework5\obj\Debug\homework5.pdb
+D:\lesson homework\lesson 5\homework5\bin\Debug\homework5.exe.config
+D:\lesson homework\lesson 5\homework5\bin\Debug\homework5.exe
+D:\lesson homework\lesson 5\homework5\bin\Debug\homework5.pdb
+D:\lesson homework\lesson 5\homework5\obj\Debug\homework5.csproj.AssemblyReference.cache
+D:\lesson homework\lesson 5\homework5\obj\Debug\homework5.csproj.SuggestedBindingRedirects.cache
+D:\lesson homework\lesson 5\homework5\obj\Debug\homework5.csproj.CoreCompileInputs.cache
+D:\lesson homework\lesson 5\homework5\obj\Debug\homework5.exe
+D:\lesson homework\lesson 5\homework5\obj\Debug\homework5.pdb

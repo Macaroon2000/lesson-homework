@@ -1,0 +1,5 @@
+    1 дз           https://github.com/Macaroon2000/lesson-1/pull/2
+	2 дз           https://github.com/Macaroon2000/lesson2/pull/2
+	3 дз           https://github.com/Macaroon2000/lesson3/pull/1
+	4 дз
+	5 дз

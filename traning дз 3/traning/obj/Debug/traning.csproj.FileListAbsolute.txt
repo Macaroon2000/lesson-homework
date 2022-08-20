@@ -1,0 +1,8 @@
+D:\lesson homework\traning\traning\obj\Debug\traning.csproj.AssemblyReference.cache
+D:\lesson homework\traning\traning\obj\Debug\traning.csproj.SuggestedBindingRedirects.cache
+D:\lesson homework\traning\traning\obj\Debug\traning.csproj.CoreCompileInputs.cache
+D:\lesson homework\traning\traning\bin\Debug\traning.exe.config
+D:\lesson homework\traning\traning\bin\Debug\traning.exe
+D:\lesson homework\traning\traning\bin\Debug\traning.pdb
+D:\lesson homework\traning\traning\obj\Debug\traning.exe
+D:\lesson homework\traning\traning\obj\Debug\traning.pdb
